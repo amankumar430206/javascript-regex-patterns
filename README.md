@@ -16,12 +16,6 @@ Clone this repository to your project:
  git clone https://github.com/your-username/regex-patterns.git
 ```
 
-Or install via npm (if converted into a package later):
-
-```sh
- npm install regex-patterns
-```
-
 ## 🔥 How to Use
 
 Simply import the regex pattern you need in your JavaScript project:
